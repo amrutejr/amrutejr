@@ -13,8 +13,6 @@
 
 [![Email](https://img.shields.io/badge/Email-abhinav.amrute%40gmail.com-black?style=flat-square&logo=gmail&logoColor=white)](mailto:abhinav.amrute@gmail.com)
 [![Location](https://img.shields.io/badge/📍-Pune,%20India-black?style=flat-square)](https://maps.google.com/?q=Pune,India)
-[![College](https://img.shields.io/badge/🎓-B.Tech%20CS%20%26%20AI%20%40%20Newton%20×%20ADYPU-black?style=flat-square)](https://adypu.edu.in)
-
 </div>
 
 ---
