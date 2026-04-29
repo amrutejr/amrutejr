@@ -9,7 +9,7 @@
 ╚═╝  ╚═╝╚═════╝ ╚═╝     ╚═╝   ╚═╝╚═════╝ ╚══════╝╚═╝    ╚═════╝
 ```
 
-### ⚡ Software Developer & Entrepreneur · AI × Automation × Full-Stack
+### ⚡ Software Developer & Entrepreneur · AI × Automation
 
 [![Email](https://img.shields.io/badge/Email-abhinav.amrute%40gmail.com-black?style=flat-square&logo=gmail&logoColor=white)](mailto:abhinav.amrute@gmail.com)
 [![Location](https://img.shields.io/badge/📍-Pune,%20India-black?style=flat-square)](https://maps.google.com/?q=Pune,India)
