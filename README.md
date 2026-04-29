@@ -38,7 +38,7 @@ I'm a **Computer Science & AI student** with a builder's mindset and an entrepre
 <tr>
 <td width="50%" valign="top">
 
-### 🔗 [LynkSurf](https://github.com/AbhinavAmrute) — Chrome Extension
+### 🔗 [LynkSurf](https://github.com/amrutejr) — Chrome Extension
 > AI-powered LinkedIn supercharger
 
 - 📦 **265+ installs** | 66% US user base
@@ -49,7 +49,7 @@ I'm a **Computer Science & AI student** with a builder's mindset and an entrepre
 </td>
 <td width="50%" valign="top">
 
-### 🎬 [Code-YouTube](https://github.com/AbhinavAmrute) — Dev Learning Platform
+### 🎬 [Code-YouTube](https://github.com/amrutejr) — Dev Learning Platform
 > YouTube, but built for coders
 
 - ⚛️ React + Tailwind + YouTube Data API
@@ -121,16 +121,6 @@ Strengths:    AI Tools · Automation · Chrome Extensions · DSA
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinavAmrute&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=888888" />
 
 </div>
-
----
-
-## 🎓 Education
-
-| 🏫 Institution | 📚 Program | 📅 Duration | 🏅 Achievement |
-|---|---|---|---|
-| Newton School of Technology × ADYPU | B.Tech — CS & AI | Aug 2025 – Aug 2029 | SGPA: 8.64 · Construct Hackathon Winner 🏆 |
-| Samarpan Gnyan School | Class 12 (PCM) | Feb 2024 – Apr 2025 | Grade: 74.6% |
-
 ---
 
 ## 💡 What Drives Me
