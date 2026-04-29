@@ -24,10 +24,8 @@
 I'm a **Computer Science & AI student** with a builder's mindset and an entrepreneur's hunger. I ship AI-powered products, automate everything that can be automated, and make developer tools that feel magical.
 
 - 🚀 **265+ real users** on my Chrome Extension — built and launched solo
-- 🏆 **Construct Hackathon Winner** at Newton School of Technology
+- 🏆 **Construct Hackathon Winner** by EmergentLabs
 - 🤖 Obsessed with **n8n**, **LLMs**, and making AI do the boring stuff
-- ⚡ SGPA: **8.64** | Currently in 1st year B.Tech CS & AI
-
 ---
 
 ## 🔥 Featured Projects
